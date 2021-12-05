@@ -3,11 +3,10 @@
 ESSE PROJETO SEMESTRAL FOI DESENVOLVIDO COM O OBJETIVO DE APLICAR OS CONHECIMENTOS DE PYTHON OBTIDOS EM AULA NA MATÉRIA DE CIÊNCIA DE DADOS NA UNIVERSIDADE NOVE DE JULHO 
 
 ------------------------------------------------------------------------------------------------------------------------------
-**TURMA**
+**TURMA**\
 08_T22_QUI_N -> Turma 22 Noite
 
-**INTEGRANTES**
-
+**INTEGRANTES**\
 André Luis Cardoso Júnior                                      RA: 920203434\
 Enzo Rodrigues da Costa                                        RA:920125906\
 Leonardo Oliveira Alves                                        RA: 420108089\
