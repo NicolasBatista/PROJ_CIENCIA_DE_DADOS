@@ -4,7 +4,7 @@ ESSE PROJETO SEMESTRAL FOI DESENVOLVIDO COM O OBJETIVO DE APLICAR OS CONHECIMENT
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-INTEGRANTES
+**INTEGRANTES**
 
 André Luis Cardoso Júnior                                      RA: 920203434\
 Enzo Rodrigues da Costa                                        RA:920125906\
@@ -16,4 +16,4 @@ Vinicius Rolo Fonseca                                          RA: 920118617
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-PROJ_CIENCIA_DE_DADOS NO COLABORY [PROJ_CIENCIA_DE_DADOS.ipynb](/PROJ_CIENCIA_DE_DADOS.ipynb)
+**PROJ_CIENCIA_DE_DADOS** NO COLABORY [PROJ_CIENCIA_DE_DADOS.ipynb](/PROJ_CIENCIA_DE_DADOS.ipynb)
