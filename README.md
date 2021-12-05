@@ -17,4 +17,4 @@ Vinicius Rolo Fonseca                                          RA: 920118617
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-**PROJ_CIENCIA_DE_DADOS** NO COLABORY [PROJ_CIENCIA_DE_DADOS.ipynb](/PROJ_CIENCIA_DE_DADOS.ipynb)
+**PROJ_CIENCIA_DE_DADOS** NO COLABORY [PROJ_GOVERNANCA_TI.ipynb](/PROJ_GOVERNANCA_TI.ipynb)
